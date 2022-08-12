@@ -29,10 +29,7 @@
 แล้วเพิ่มโค้ดดั่งในภาพ
 ![overi](https://user-images.githubusercontent.com/110089122/184413552-de991dd9-3110-42f6-997f-939c107ba3d7.png)
 
+ผลลัพท์
+![fins](https://user-images.githubusercontent.com/110089122/184414228-160b4030-29ae-4e27-bda1-034f52e3e36c.png)
 
-
-
-
-
-
-
+จัดทำโดยใช้เรียนในวิชา Mobile Development for Android Platform
