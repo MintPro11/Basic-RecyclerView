@@ -16,7 +16,6 @@
 
 ![loadreturn](https://user-images.githubusercontent.com/110089122/184410463-02187ca9-71c2-4503-aa10-408ffb81c0ce.png)
 
-![loadreturn](https://user-images.githubusercontent.com/110089122/184410728-12d9e932-9092-4eca-b959-cac97ab393b4.png)
 
 หลังจากนั้นมาที่ activity_main.xml และกำหนดให้ใช้ FrameLaout แทน แล้วค่อยส้ราง RecyclerView ดั่งภาพ
 ![activimain](https://user-images.githubusercontent.com/110089122/184411995-a1b89e14-0409-4cf7-b9ab-9b195ac0e928.png)
